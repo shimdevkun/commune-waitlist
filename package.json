@@ -1,0 +1,24 @@
+{
+  "name": "1.communewaitlist",
+  "version": "1.0.0",
+  "description": "Personal solution to the \"Commune Waitlist Page\" challenge on Codewell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimdevkun/commune-waitlist.git"
+  },
+  "author": "shimdevkun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimdevkun/commune-waitlist/issues"
+  },
+  "homepage": "https://github.com/shimdevkun/commune-waitlist#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.42.1"
+  }
+}
